@@ -1,0 +1,70 @@
+{
+    "titulo": "BANDAS DE ROCK",
+    "sinopsis": "El rock es un género musical contemporáneo a nuestros tiempos, es decir, surgió en el siglo pasado y se caracteriza por la interpretación de instrumentos musicales como ser: guitarra, bajo, batería, centrándose especialmente en el sonido de la guitarra y de la batería, también, puede sumársele a estos instrumentos de teclado tales como el órgano y el piano.",
+    "secretBase": "las mejores bandas",
+    "members": [
+        {
+            "nombre": "Rolling Stones",
+            "año": 1962,
+            "informacion": "Los Rolling Stones fueron aclamados como el mejor grupo de rock and roll del mundo en la década de 1970, un título que han luchado por conservar frente a otras bandas famosas",
+            "cancion": [
+                "Gimme Shelter",
+                "Sympathy for the Devil",
+                "Street Fighting Man"
+            ]
+            
+            
+        },
+        {
+            "nombre": "Queen",
+            "año": 1970 ,
+            "informacion": "Banda de rock británica que gozó de gran fama desde mediados de los setenta y durante toda la década de los ochenta; la espectacularidad y dinamismo de sus actuaciones y la asimilación al rock de tendencias jazzísticas, sinfónicas y operísticas fueron algunas de las claves de su éxito",
+            "cancion": [
+                "Friends Will Be Friends",
+                "Bohemian Rhapsody",
+                "Another One Bites the Dust"
+            ]
+        },
+        {
+            "nombre": "Ramones",
+            "año": 1974,
+            "informacion": "Ramones fue una banda estadounidense de punk formada en Forest Hills, en el distrito de Queens (Nueva York, Estados Unidos) en 1974, y disuelta veintidós años más tarde, en 1996",
+            "cancion": [
+                "Pet Sematary",
+                "Pet Sematary",
+                "Rockaway Beach"
+            ]
+        },
+        {
+            "nombre": "Metallica",
+            "año": 1981,
+            "informacion": "Metallica es una banda estadounidense de thrash metal​ originaria de Los Ángeles",
+            "cancion": [
+                "Hero Of The Day",
+                "Enter Sandman",
+                "To Live Is To Die"
+            ]
+        },
+        {
+            "nombre": "Guns N' Roses",
+            "año": 1985,
+            "informacion": "Guns N' Roses es una banda estadounidense de hard rock formada en Hollywood, Los Ángeles, en la zona de Sunset Strip",
+            "cancion": [
+                "Sweet Child O' Mine",
+                "November Rain",
+                "Don't Cry"
+            ]
+        },
+        {
+            "nombre": "Aerosmith",
+            "año": 1970,
+            "informacion":"Aerosmith es una banda estadounidense de rock ​​formada en Boston en 1970",
+            "cancion": [
+                "Dream On",
+                "Crazy",
+                "Amazing"
+            ]
+        }
+
+    ]
+}

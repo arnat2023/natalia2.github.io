@@ -1,0 +1,100 @@
+/* || general styles */
+
+html {
+    font-family: 'helvetica neue', helvetica, arial, sans-serif;
+}
+
+body {
+    background-color:rgb(4, 5, 5);
+    background-image: url(https://i.pinimg.com/564x/d9/ec/c9/d9ecc9d216e9b9c56bc9d18f4c3115c5.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+h1, h2 {
+    font-family: inherit;
+    color:aliceblue;
+}
+
+/* header styles */
+
+h1 {
+    font-size: 4rem;
+    text-align: center;
+}
+
+header p {
+    font-size: 1.3rem;
+    font-weight: bold;
+    text-align: center;
+    color: rgb(250, 252, 253);
+}
+
+/* section styles */
+section{
+    display: grid;
+    grid-template-columns: 50%  50%;
+    grid-gap: 10px;
+    cursor: pointer
+}
+
+section article {
+    height: auto;
+    background-color: rgba(92, 57, 250, 0.425);
+    text-align: center;
+    padding: 20px;
+}
+article:hover{
+    background-color: rgba(55, 0, 255, 0.425);
+    color: white;
+}
+
+section p {
+    margin: 5px ;
+    font-size: 15px;
+}
+
+section ul {
+    font-size: 14px;
+    text-align: left;
+}
+
+h2 {
+    font-size: 2.5rem;
+    letter-spacing: -5px;
+    margin-bottom: 10px;
+}
+
+.sinopsis{
+    width: 80%;
+    margin: 0 auto;
+}
+
+.tarjeta{
+    width: 90%;
+    border-radius: 30px;
+    max-width: 100%;
+    background-image: url('bandas.json/img');
+    height: auto;
+    cursor: pointer;
+    place-items: center;
+    background-size: cover;
+    background-position: center;
+    color: rgb(244, 247, 248);
+    background: url(https://i.pinimg.com/564x/50/01/39/500139dc801dec72f4f3341ab640d77e.jpg);
+    padding: 10px 20px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+}
+
+
+
+
+
+
+
+
+
+
